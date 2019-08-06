@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "711689275406",
+    "firebase_url": "https://push-android-2f747.firebaseio.com",
+    "project_id": "push-android-2f747",
+    "storage_bucket": "push-android-2f747.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711689275406:android:e8acd3b2d9ecbb44",
+        "android_client_info": {
+          "package_name": "com.cloudmesaj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711689275406-k81hnc3rqj2pan5t54sdlk2seisvsacl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqctlA6i60NRgW7XInjPsiLYMmNY-Bxkw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711689275406:android:65623f395e9cca63",
+        "android_client_info": {
+          "package_name": "com.loginappi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711689275406-k81hnc3rqj2pan5t54sdlk2seisvsacl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqctlA6i60NRgW7XInjPsiLYMmNY-Bxkw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
